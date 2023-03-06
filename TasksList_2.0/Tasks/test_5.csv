@@ -1,0 +1,5 @@
+Name;Position;Task;Start task data;Finish task data
+ivanov;manager;Test task 1;20/2/2023;20/2/2023
+stepanov;service;Test task 2;20/2/2023;20/2/2023
+kostenko;manager;Test task 3;20/2/2023;In progress!
+bubnov;cerduck;test task 4;20/2/2023;In progress!
